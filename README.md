@@ -35,18 +35,23 @@ To clone and run this application, you'll need Git installed on your computer.
 From your command line:
 
 **Clone this repository.**
+
 git clone https://github.com/guyreuveni33/Lite-Shell
 
 **Go into the repository.**
+
 cd Lite-Shell
 
 **Compile.**
+
 gcc -o liteShell.out liteShell.c
 
 **Run the program.**
+
 ./liteShell.out
 
 **Exit the program.**
+
 exit
 
 ## Running Example
