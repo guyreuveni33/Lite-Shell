@@ -49,7 +49,7 @@ gcc -o liteShell.out liteShell.c
 **Exit the program.**
 exit
 
-# Running Example
+## Running Example
 
 <img src="https://i.postimg.cc/0yRfWk2x/image.png" width="300" height="800">
 
