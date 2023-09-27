@@ -48,14 +48,12 @@ gcc -o liteShell.out liteShell.c
 
 **Exit the program.**
 exit
-### Running Example
 
-<img src="https://i.postimg.cc/0yRfWk2x/image.png" width="00" height="800">
+# Running Example
 
-<img src="https://i.postimg.cc/0yRfWk2x/image.png" width="00" height="800">
+<img src="https://i.postimg.cc/0yRfWk2x/image.png" width="300" height="800">
 
-<img src="https://i.postimg.cc/1tf7xWxZ/image.png" width="00" height="800">
-
+<img src="https://i.postimg.cc/0yRfWk2x/image.png" width="300" height="800">
 
 For further details about error handling and additional functionalities, please refer to the project's source code and documentation.
 
